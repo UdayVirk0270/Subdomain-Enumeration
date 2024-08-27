@@ -16,13 +16,8 @@ This is a Python-based tool for enumerating subdomains of a given domain. The to
 Clone the repository:
 
 ```
-git clone https://github.com/yourusername/subdomain-enumeration-tool.git
+git clone https://github.com/UdayVirk0270/Subdomain-enumeration-tool.git
 cd subdomain-enumeration-tool
-```
-
-Install the required Python packages:
-
-```pip install -r requirements.txt
 ```
 
 ## Usage
